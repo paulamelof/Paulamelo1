@@ -6,8 +6,8 @@
 - 🎯 Expandindo meu foco profissional para **Engenharia de Machine Learning** e **Arquitetura de Agentes de IA**, utilizando este espaço para documentar meus projetos, automações e evolução na área.
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulamelof&show_icons=true&title_color=61afef&icon_color=61afef&text_color=e06c75&bg_color=2a2a2a"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulamelof&layout=compact&title_color=61afef&text_color=e06c75&bg_color=2a2a2a"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=paulamelof&show_icons=true&title_color=61afef&icon_color=61afef&text_color=ffe4e1&bg_color=2a2a2a"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulamelof&layout=compact&title_color=61afef&text_color=ffe4e1&bg_color=2a2a2a"/>
 </p>
 
 ---
